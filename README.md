@@ -2,7 +2,11 @@ INSTALLATION
 
 Make sure that the target environment for ODsys has Python 2.7 or 3.2.2 and Django 1.6.5 or 1.9 installed and running correctly.
 
+Simply 
 
+git pull https://github.com/ORC-1/GoldHosp.git
+
+<br>or<br>
 
 Unzip the compressed folder containing the ODsys application into a suitable directory of your choice.
 
@@ -34,21 +38,22 @@ Username: nursea@test.com Password: a
 
 Username: patienta@test.com Password: a
 
-Features
-Patient Registration
-Administrator Registration
-Update Patient Profile Information
-Update Patient Medical Information
-Create or Update Patient Appointment
-Cancel Patient Appointment
-Appointment Calendar
-Add/Remove Prescriptions
-Viewing Patient Medical Information, Prescriptions and Tests and Results
-Release Test Results
-Logging System Activity
-Admission and Discharge to/from Hospital
-Viewing Activity Log
-Viewing System Statistics
-Patient Transfer
-Upload Patient Information
+<h4>Features</h4>
+Patient Registration<br>
+Administrator Registration <br>
+Update Patient Profile Information<br>
+Update Patient Medical Information<br>
+Create or Update Patient Appointment<br>
+Cancel Patient Appointment<br>
+Appointment Calendar<br>
+Add/Remove Prescriptions<br>
+Viewing Patient Medical Information,<br>
+Prescriptions and Tests and Results<br>
+Release Test Results<br>
+Logging System Activity<br>
+Admission and Discharge to/from Hospital<br>
+Viewing Activity Log<br>
+Viewing System Statistics<br>
+Patient Transfer<br>
+Upload Patient Information<br>
 Send Private Message
